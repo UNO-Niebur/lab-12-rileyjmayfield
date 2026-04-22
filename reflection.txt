@@ -1,0 +1,10 @@
+1) The sorted list was easied to sort because it was already in order and nothing had to be swapped. But for the 
+non sorted lists teh random list was easier to sort because only some of the elements had to be swpped, not all of
+them like the reversed list.
+
+2) The reversed list required the most work, because it was completely backwards so every element had to be moved
+
+3) Sorting is useful because then you don't have to do a linear search. You can do a binary search which is much 
+faster
+
+4) A linear search would still be useful when a list is unsorted, or it is a short list.
